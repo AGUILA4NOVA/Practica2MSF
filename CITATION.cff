@@ -10,12 +10,13 @@ authors:
     family-names: Ibarra Salas
     email: l22212387@tijuana.tecnm.mx
     affiliation: Tecnm-ITT
-repository-code: 'https://github.com/BraulioIbarraSalas/Practica1MSF'
+repository-code: 'https://github.com/AGUILA4NOVA/Practica2MSF'
 keywords:
-  - Función de transferencia
-  - modelo de ecuaciones integro-diferenciales
-  - estabilidad y error en estado estacionario
-  - Análisis matemático
+  - Circuito RLC
+  - Controlador PI
+  - Sistema Cardiovascular
+  - Modelo Matematico
+  - Patologias Cardiacas
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2025-10-09'
+date-released: '2025-17-10'
