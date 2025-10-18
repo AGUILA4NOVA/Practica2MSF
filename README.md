@@ -1,6 +1,6 @@
 [![Open in MATLAB Online]
 
-# Práctica: Sistema cardiovascular
+# Práctica2: Sistema cardiovascular
 
 ## Información de la estudiante
 Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
